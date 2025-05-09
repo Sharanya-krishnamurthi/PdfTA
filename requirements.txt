@@ -1,0 +1,10 @@
+gradio
+pdfplumber
+chromadb
+google-api-core
+google-genai
+langchain
+langgraph
+langchain-google-genai
+tiktoken
+python-dotenv
